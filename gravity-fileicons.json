@@ -1,0 +1,31 @@
+{
+  "iconDefinitions": {
+    "_file": {
+      "iconPath": "./icons/file-dark.svg"
+    },
+    "_folder": {
+      "iconPath": "./icons/folder-dark.svg"
+    },
+    "_folder_open": {
+      "iconPath": "./icons/folder-dark.svg"
+    },
+    "_root_folder": {
+      "iconPath": "./icons/root-folder-dark.svg"
+    },
+    "_root_folder_open": {
+      "iconPath": "./icons/root-folder-dark.svg"
+    },
+    "_file_img": {
+      "iconPath": "./icons/file-image-dark.svg"
+    }
+  },
+  "file": "_file",
+  "folder": "_folder",
+  "folderExpanded": "_folder_open",
+  "rootFolder": "_root_folder",
+  "rootFolderExpanded": "_root_folder_open",
+  "fileExtensions": {
+    "png": "_file_img",
+    "svg": "_file_img"
+  }
+}
