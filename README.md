@@ -16,3 +16,6 @@
   - Place the folder in the extensions directory.
     - macOS: `~/.vscode/extensions`
 
+---
+
+👉 Also checkout the VS Code [Gravity theme](https://github.com/frankyonnetti/gravity-vscode-theme)
