@@ -13,8 +13,8 @@
 
 ## Install
 
-  - [Download the icon theme](https://github.com/frankyonnetti/gravity-file-icons/archive/refs/tags/0.1.1.zip) and un-zip the archive.
+  - [Download the icon theme](https://github.com/frankyonnetti/gravity-file-icons/archive/refs/tags/0.1.2.zip) and un-zip the archive.
   - Rename the folder to `gravity-file-icons`.
-  - Place the folder in the extenstions directory.
+  - Place the folder in the extensions directory.
     - macOS: `~/.vscode/extensions`
 
