@@ -5,8 +5,6 @@
   Gravity VSCode File Icons
 </h1>
 
-<p align="center">Version 0.1.0</p>
-
 <p align="center">
 <img alt="" src="https://yonnetti-sublime.s3.amazonaws.com/gravity-vscode/the-icons.png" />
 </p>
