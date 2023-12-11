@@ -1,22 +1,23 @@
 {
-  "name": "gravity-file-icons",
+  "name": "gravity-vscode-file-icons",
   "displayName": "Gravity File Icons",
-  "description": "macOS sidebar icons.",
-  "version": "0.1.0",
-  "engines": {
-    "vscode": "^1.70.0"
-  },
+  "description": "File icon theme that feels right at home on macOS",
+  "version": "1.2.0",
+  "license": "MIT",
   "publisher": "fyonnetti",
   "author": {
       "name": "Frank Yonnetti"
   },
-  "homepage": "https://github.com/frankyonnetti/gravity-vscode-theme",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "homepage": "https://github.com/frankyonnetti/gravity-vscode-file-icons",
   "repository": {
       "type": "git",
-      "url": "https://github.com/frankyonnetti/gravity-vscode-theme"
+      "url": "https://github.com/frankyonnetti/gravity-vscode-file-icons"
   },
   "bugs": {
-      "url": "https://github.com/frankyonnetti/gravity-vscode-theme/issues"
+      "url": "https://github.com/frankyonnetti/gravity-vscode-file-icons/issues"
   },
   "icon": "gravity-fileicon.png",
   "categories": [
@@ -26,7 +27,7 @@
   "contributes": {
     "iconThemes": [
       {
-        "id": "gravityfileicons",
+        "id": "gravity-file-icons",
         "label": "Gravity File Icons",
         "path": "./gravity-fileicons.json"
       }

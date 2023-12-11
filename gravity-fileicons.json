@@ -26,6 +26,8 @@
   "rootFolderExpanded": "_root_folder_open",
   "fileExtensions": {
     "png": "_file_img",
+    "gif": "_file_img",
+    "jpg": "_file_img",
     "svg": "_file_img"
   }
 }

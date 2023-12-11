@@ -18,4 +18,8 @@
 
 ---
 
-👉 Also checkout the VS Code [Gravity theme](https://github.com/frankyonnetti/gravity-vscode-theme)
+👉 Also checkout the VS Code:
+
+- [Gravity theme](https://github.com/frankyonnetti/gravity-vscode-theme)
+- [Gravity Product Icon Theme](https://github.com/frankyonnetti/gravity-vscode-product-icons)
+
