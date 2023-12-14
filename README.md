@@ -11,15 +11,20 @@
 
 ## Install
 
-  - [Download the icon theme](https://github.com/frankyonnetti/gravity-file-icons/archive/refs/tags/0.1.2.zip) and un-zip the archive.
-  - Rename the folder to `gravity-file-icons`.
-  - Place the folder in the extensions directory.
-    - macOS: `~/.vscode/extensions`
+  - Download the **file icons theme** by clicking the "Code" button above and selecting **Download ZIP** from the drop-down.
+  - Un-zip the archive and locate the `.vsix` file.
+  - Run the following command:
+    - `code --install-extension path/to/gravity-vscode-file-icons-1.2.0.vsix`
+
+More documentation on `.vsix`:
+
+- [Launching from the command line](https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line) (installing the `code` cli)
+- [Packaging extensions](https://code.visualstudio.com/api/working-with-extensions/publishing-extension#packaging-extensions)
 
 ---
 
 👉 Also checkout the VS Code:
 
-- [Gravity theme](https://github.com/frankyonnetti/gravity-vscode-theme)
+- [Gravity Theme](https://github.com/frankyonnetti/gravity-vscode-theme)
 - [Gravity Product Icon Theme](https://github.com/frankyonnetti/gravity-vscode-product-icons)
 
